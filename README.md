@@ -5,48 +5,12 @@ I am a highly driven and detail-oriented junior software engineer with a passion
 
 ## Technical Skills
 
-### Programming Languages
-- Python
-- C#
-- JavaScript
-- SQL
-- HTML
-- CSS
+- **Programming Languages**: Python, C#, JavaScript, SQL, HTML, CSS  
+- **Frameworks & Tools**: Flask, React.js, Blazor, TDD, Docker, AWS (Lambda, ECS, Redshift, EventBridge, S3), PostgreSQL, SQLite, Git, Terraform  
+- **Data Engineering**: Kafka, Pandas, ETL pipelines, stream processing, data cleaning  
+- **Visualisation**: Streamlit, Tableau, Altair, Matplotlib, Plotly  
+- **Machine Learning**: TensorFlow, scikit-learn, RandomForestClassifier, CNNs, NLP (spacy, OpenAI), VADER, Fuzzy Matching  
 
-### Frameworks & Tools
-- Flask
-- React.js
-- Blazor
-- TDD
-- Docker
-- AWS (Lambda, ECS, Redshift, EventBridge, S3)
-- PostgreSQL
-- SQLite
-- Git
-- Terraform
-
-### Data Engineering
-- Kafka
-- Pandas
-- ETL pipelines
-- Stream processing
-- Data cleaning
-
-### Visualisation
-- Streamlit
-- Tableau
-- Altair
-- Matplotlib
-- Plotly
-
-### Machine Learning
-- TensorFlow
-- scikit-learn
-- RandomForestClassifier
-- CNNs
-- NLP (spacy, OpenAI)
-- VADER
-- Fuzzy Matching
 
 ## Professional Experience
 

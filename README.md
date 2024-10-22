@@ -1,9 +1,9 @@
 # Hi there, I'm Megan Lester! 👋
 
-## About Me
+## 😃 About Me
 I am a highly driven and detail-oriented trainee software and data engineer with a passion for backend and data engineering. I specialize in Python, C#, and JavaScript, and I thrive in fast-paced, Agile environments. My experience includes developing cloud-based data pipelines and full-stack applications. I’m excited about the opportunity to contribute to a dynamic team by applying my problem-solving skills, eagerness to learn, and passion for innovation in a highly cooperative setting.
 
-## Technical Skills
+## 📈 Technical Skills
 
 - **Programming Languages**: Python, C#, JavaScript, SQL, HTML, CSS  
 - **Frameworks & Tools**: Flask, React.js, Blazor, TDD, Docker, AWS (Lambda, ECS, Redshift, EventBridge, S3), PostgreSQL, SQLite, Git, Terraform  
@@ -12,7 +12,7 @@ I am a highly driven and detail-oriented trainee software and data engineer with
 - **Machine Learning**: TensorFlow, scikit-learn, RandomForestClassifier, CNNs, NLP (spacy, OpenAI), VADER, Fuzzy Matching  
 
 
-## Professional Experience
+## 🗃 Professional Experience
 
 **Software Developer Intern**  
 *Ghyston, Bristol*  
@@ -30,4 +30,8 @@ I am a highly driven and detail-oriented trainee software and data engineer with
 - Developed strong backend, data engineering, and cloud skills, with technologies like Python, Flask, PostgreSQL, AWS (Lambda, EC2, Terraform).
 - Delivered four industry-standard case studies, gaining experience with ETL pipelines, machine learning, cloud computing, and data visualisation.
 
+---
 
+Feel free to reach out to me or explore my repositories to see the projects I've worked on!
+
+**LinkedIn**: [www.linkedin.com/in/megan-lester-480aba255](https://www.linkedin.com/in/megan-lester-480aba255)  

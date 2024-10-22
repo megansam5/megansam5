@@ -1,7 +1,7 @@
 # Hi there, I'm Megan Lester! 👋
 
 ## About Me
-I am a highly driven and detail-oriented junior software engineer with a passion for backend and data engineering. I specialize in Python, C#, and JavaScript, and I thrive in fast-paced, Agile environments. My experience includes developing cloud-based data pipelines and full-stack applications. I’m excited about the opportunity to contribute to a dynamic team by applying my problem-solving skills, eagerness to learn, and passion for innovation in a highly cooperative setting.
+I am a highly driven and detail-oriented trainee software and data engineer with a passion for backend and data engineering. I specialize in Python, C#, and JavaScript, and I thrive in fast-paced, Agile environments. My experience includes developing cloud-based data pipelines and full-stack applications. I’m excited about the opportunity to contribute to a dynamic team by applying my problem-solving skills, eagerness to learn, and passion for innovation in a highly cooperative setting.
 
 ## Technical Skills
 
@@ -25,7 +25,7 @@ I am a highly driven and detail-oriented junior software engineer with a passion
 
 **Trainee Software & Data Engineer** 
 *Sigma Labs*
-*July - October 2024*  
+*July 2024 - Present*  
 - Focused on technical problem-solving, clean code, and Agile methodologies.
 - Developed strong backend, data engineering, and cloud skills, with technologies like Python, Flask, PostgreSQL, AWS (Lambda, EC2, Terraform).
 - Delivered four industry-standard case studies, gaining experience with ETL pipelines, machine learning, cloud computing, and data visualisation.

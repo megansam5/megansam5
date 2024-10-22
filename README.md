@@ -34,4 +34,4 @@ I am a highly driven and detail-oriented trainee software and data engineer with
 
 Feel free to reach out to me or explore my repositories to see the projects I've worked on!
 
-**LinkedIn**: [www.linkedin.com/in/megan-lester-480aba255](https://www.linkedin.com/in/megan-lester-480aba255)  
+[**LinkedIn**](https://www.linkedin.com/in/megan-lester-480aba255)  

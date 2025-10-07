@@ -13,6 +13,6 @@ I am a junior data engineer with a passion for both frontend and backend enginee
 
 ---
 
-Feel free to reach out to me or explore my repositories to see the projects I've worked on!
+Feel free to reach out to me or explore my repositories to see the projects I've worked on (I've starred my favourite ones)!
 
 [**LinkedIn**](https://www.linkedin.com/in/megan-lester-480aba255)  
